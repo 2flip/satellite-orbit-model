@@ -9,11 +9,11 @@ time_use = 5.5                          #years
 
 #Parametrs_orbite\enviroment
 sun_active = True                       #not use yet
-start_orbite_height = 150               #km, only circle orbite
+start_orbite_height = 250               #km, only circle orbite
 
 #Parametrs calculator
 end_orbit_height = 100
-step = 0.01
+step = 150
 scale_height = 8                        #needles for calc density form height
 #<----------------------END USER'S PARAMETRS---------------------->
 
